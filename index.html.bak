@@ -1,0 +1,60 @@
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta>
+    <title>Jiahao Hu's Homepage</title>
+    <style>
+    body
+    {
+			max-width: 800px;
+		  margin: 80 auto 80 auto; /* top right bottom left*/
+			line-height: 130%;
+    }
+  </style>
+  </head>
+  <body>
+    <h1>Jiahao Hu</h1>
+    <h2><ruby>胡<rp>(</rp><rp></rp><rt>hú</rt><rp>)</rp>&nbsp;家<rp>(</rp><rt>&nbsp;jiā</rt><rp>)</rp>
+        昊<rp>(</rp><rt>&nbsp;hào</rt><rp>)</rp></ruby></h2>
+    <p>I am a PhD candidate in math arrived in 2017 at Stony Brook University. I
+      am interested in topology, especially of manifolds and algebraic
+      varieties. My advisor is <a href="http://www.math.stonybrook.edu/%7Edennis/"
+        target="_blank">Dennis
+        Sullivan</a>.</p>
+    <li><b>Office</b>: 3105, Math Department, Stony Brook University</li>
+    <li><b>Email</b>: jiahao.hu@stonybrook.edu</li>
+    <hr>
+    <h2> Research </h2>
+    <li><i><a href="https://arxiv.org/abs/2108.06067">Almost complex manifolds
+          with total Betti number three</a></i> (arXiv preprint). </li>
+    <li>(with <a href="https://guests.mpim-bonn.mpg.de/milivojevic">A.
+        Milivojević</a>) <i><a href="https://arxiv.org/abs/2108.09794">Infinite
+          symmetric products of rational algebras and spaces</a></i> (to appear
+      in <em>Comptes Rendus Mathématique</em>)</li>
+    <hr>
+    <h2> Notes</h2>
+    <p></p>
+    <li><i><a href="Notes/topological_resolution_of_singularities.pdf" target="_blank">Topological
+          resolution of singularities</a></i> for talks I gave at City
+      University of New York Graduate Center Topology, Geometry and Physics
+      seminar in November 2019, at University of Science and Technology of China
+      in December 2019, and at University of Pennsylvania deformation theory
+      seminar in February 2020. </li>
+    <p></p>
+    <p></p>
+    <li><i><a href="Notes/elliptic_cohomology_and_elliptic_genera.pdf" target="_blank">Elliptic
+          cohomology and elliptic genera</a></i> for a series of talks I gave at
+      student topology seminar in spring 2020, Stony Brook University.</li>
+    <li><i><a href="Notes/steenrod_and_adams_operations_from_easy_algebra.pdf" target="_blank">Steenrod
+          and Adams operations from easy algebra</a></i> This is a detailed note
+      attempting to interpret Jack Morava's point that "the dual Steenrod
+      algebra is the automorphism group of the additive group". In particular,
+      we solve the equations <em>f(x+y)=f(x)+f(y)</em> and <em>f(x+y+xy)=f(x)+f(y)+f(x)f(y)</em>
+      by formal power series with coefficients in the field of <em>p</em>
+      elements, and then relate the space of solutions to Steenrod and Adams
+      operations respectively.</li>
+    <li><i><a href="Notes/spin_h.pdf" target="_blank">Quaternionic Clifford modules,
+          spin^h manifolds and symplectic K-theory</a></i> for I talk I gave at
+      Topology/Geometry Zoom seminar at University of Oregon in March 2022.</li>
+  </body>
+</html>
